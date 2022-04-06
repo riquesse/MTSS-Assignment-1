@@ -2,3 +2,4 @@
 1127436  
 [Processori](processori.md)  
 [Schede madri](schede_madri.md)  
+## Elettronica Padovana  
